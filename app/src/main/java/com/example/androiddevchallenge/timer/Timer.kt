@@ -17,8 +17,8 @@ package com.example.androiddevchallenge.timer
 
 import android.os.CountDownTimer
 
-const val DEFAULT_TIMER = 10000L
-const val DEFAULT_TIMER_STRING = "00:10"
+const val DEFAULT_TIMER = 600000L
+const val DEFAULT_TIMER_STRING = "10:00"
 const val TIMER_ENDS = "00:00"
 const val DEFAULT_INTERVAL = 10L
 
