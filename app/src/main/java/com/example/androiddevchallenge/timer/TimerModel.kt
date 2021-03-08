@@ -13,19 +13,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.androiddevchallenge.ui.theme
+package com.example.androiddevchallenge.timer
 
-import androidx.compose.material.Typography
-import androidx.compose.ui.text.font.Font
-import androidx.compose.ui.text.font.FontFamily
-import androidx.compose.ui.text.font.FontWeight
-import com.example.androiddevchallenge.R
-
-// Set of Material typography styles to start with
-val appTypography = FontFamily(
-    Font(R.font.montserrat_regular),
-    Font(R.font.montserrat_bold, FontWeight.Bold),
-    Font(R.font.montserrat_italic, FontWeight.Thin),
-
+data class TimerModel(
+    val timeInMillis: Long = DEFAULT_TIMER,
+    val timeWithFormat: String = DEFAULT_TIMER_STRING,
+    val state: State = State.IDLE
 )
-val typography = Typography(defaultFontFamily = appTypography)
+
+enum class State { IDLE, RUNNING, FINISHED }

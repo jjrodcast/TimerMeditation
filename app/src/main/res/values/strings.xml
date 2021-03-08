@@ -10,4 +10,6 @@
       the License.
       -->
     <string name="app_name">AndroidDevChallenge</string>
+    <string name="timer_title">"Take your Meditation Time"</string>
+    <string name="meditation_finished">Meditation time finished</string>
 </resources>

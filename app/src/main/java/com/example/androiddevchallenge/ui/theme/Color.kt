@@ -21,3 +21,9 @@ val purple200 = Color(0xFFBB86FC)
 val purple500 = Color(0xFF6200EE)
 val purple700 = Color(0xFF3700B3)
 val teal200 = Color(0xFF03DAC5)
+
+// CountDownTimer colors
+val grayBackground = Color(0xFFEDEEF6)
+val ringColor = Color(0xFFF8DD9B)
+val circleColor = Color(0xFFE7D8FC)
+val purpleButton = Color(0xFFCCB0F8)

@@ -1,22 +1,22 @@
-# Put title of your app here
+# Meditation Timer
 
-<!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
-<!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg)
+![Workflow result](https://github.com/jjrodcast/TimerMeditation/workflows/Check/badge.svg)
 
 
 ## :scroll: Description
-<!--- Describe your app in one or two sentences -->
+This simple application is part of the Compose Challenge Week #2 and it's a simple CountDownTimer for meditation.
+By default it's 10 minutes and you can stop and reset the time.
 
 
 ## :bulb: Motivation and Context
-<!--- Optionally point readers to interesting parts of your submission. -->
-<!--- What are you especially proud of? -->
+I took this design as motivation [CountDownTimer](https://dribbble.com/shots/12024270-Countdown-Timer-DailyUI014)
+to create this simple app. Always we need a time to take a breath and meditate.
 
 
 ## :camera_flash: Screenshots
-<!-- You can add more screenshots here if you like -->
-<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
+<img src="/results/screenshot_1.png" width="260">&emsp;
+<img src="/results/screenshot_2.png" width="260">&emsp;
+<img src="/results/screenshot_2.png" width="260">
 
 ## License
 ```
