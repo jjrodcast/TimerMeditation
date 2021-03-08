@@ -16,7 +16,8 @@ to create this simple app. Always we need a time to take a breath and meditate.
 ## :camera_flash: Screenshots
 <img src="/results/screenshot_1.png" width="260">&emsp;
 <img src="/results/screenshot_2.png" width="260">&emsp;
-<img src="/results/screenshot_2.png" width="260">
+<img src="/results/screenshot_2.png" width="260">&emsp;
+<img src="/results/meditation_time.gif" width="260">
 
 ## License
 ```
